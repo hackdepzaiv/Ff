@@ -1,1 +1,8 @@
-
+{
+  "status": "success",
+  "data": {
+    "playerCount": "12",
+    "jobId": "9d7bbcbe-7c66-4d34-ad33-b46300fcf6eb",
+    "bossName": "rip_indra True Form"
+  }
+}
