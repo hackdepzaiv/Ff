@@ -1,8 +1,1 @@
-{
-  "status": "thành công",
-  "data": {
-    "playerCount": "9",
-    "jobId": "846e18ed-4234-43de-a268-c735547b119b",
-    "bossName": "rip_indra True Form"
-  }
-}
+{"status":"success","data":{"playerCount":"9","jobId":"846e18ed-4234-43de-a268-c735547b119b","bossName":"rip_indra True Form"}}
